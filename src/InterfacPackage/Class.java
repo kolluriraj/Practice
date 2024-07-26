@@ -48,6 +48,8 @@ public class Class implements AddInterface, Additional{
 		System.out.println("when sign board is shown 22 ");
 		System.out.println("when sign board is shown 23 ");
 		System.out.println("when sign board is shown 24 ");
+		System.out.println("when sign board is shown 24 ");
+		System.out.println("when sign board is shown 24 ");
 		
 	}
 
